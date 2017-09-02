@@ -9,7 +9,13 @@ package com.example.flow;
  */
 public class App {
 
+    private static final String HELLO = "HELLO";
+
     public static void main(String[] args) {
-        System.out.println("Hello World");
+        System.out.println(HELLO);
+    }
+
+    public void method() {
+        
     }
 }
