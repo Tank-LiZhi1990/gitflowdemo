@@ -8,4 +8,7 @@ package com.example.flow;
  */
 public class App {
 
+    public static void main(String[] args) {
+        System.out.println("Hello World");
+    }
 }
